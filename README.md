@@ -12,7 +12,7 @@ O sunpark é um software que irá administrar um parque, ele fornecerá funciona
 # Requisitos Funcionais
 ## Registro de Visitantes
 1. O sistema deve permitir o registro de informações pessoais de visitantes individuais, incluindo nome, endereço e contato.
-2. Deve ser possível um registrar grupos de visitantes, incluindo o número de pessoas e um representante do grupo.
+2. Deve ser possível registrar grupos de visitantes, incluindo o número de pessoas e um representante do grupo.
 3. Deve permitir a emissão de ingressos para os visitantes, com informações sobre a data e o horário da visita, que será enviado por e-mail.
 
 ## Controle de Acesso
