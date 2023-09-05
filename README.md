@@ -1,11 +1,13 @@
 # sunkpark
-Integrantes: Eduardo César Carvalho Mancessini
+## Integrantes: 
+             Eduardo César Carvalho Mancessini
              Vitor Gabriel
              Luiz Henrique Lopes
              Wallace Alberto
              Gabriel Haziel
              Frederick Willy
- Descrição do projeto: Iremos criar um software para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
+## Descrição do projeto: 
+Iremos criar um software para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
 
 # Requisitos Funcionais
 ## Registro de Visitantes
