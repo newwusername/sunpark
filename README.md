@@ -7,7 +7,7 @@
              Gabriel Haziel
              Frederick Willy
 ## Descrição do projeto: 
-Iremos criar um aplicativo para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
+Iremos criar um software para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
 
 # Requisitos Funcionais
 ## Registro de Visitantes
