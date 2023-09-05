@@ -1,4 +1,4 @@
-# sunkpark
+# SUNPARK
 ## Integrantes: 
              Eduardo César Carvalho Mancessini
              Vitor Gabriel
