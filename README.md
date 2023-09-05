@@ -7,13 +7,13 @@
              Gabriel Haziel
              Frederick Willy
 ## Descrição do projeto: 
-Iremos criar um software para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
+Iremos criar um aplicativo para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
 
 # Requisitos Funcionais
 ## Registro de Visitantes
 1. O sistema deve permitir o registro de informações pessoais de visitantes individuais, incluindo nome, endereço e contato.
 2. Deve ser possível registrar grupos de visitantes, incluindo o número de pessoas e um representante do grupo.
-3. Deve permitir a emissão de ingressos para os visitantes, com informações sobre a data e o horário da visita.
+3. Deve permitir a emissão de ingressos para os visitantes, com informações sobre a data e o horário da visita, que será enviado por e-mail.
 
 ## Controle de Acesso
 1. O sistema deve oferecer uma maneira de verificar e registrar a entrada e saída dos visitantes do parque.
@@ -25,7 +25,7 @@ Iremos criar um software para administrar um parque, ele fornecerá funcionalida
 
 ## Reservas e Eventos
 1. Os visitantes devem poder fazer reservas para áreas específicas do parque, como espaços para piqueniques ou churrasqueiras.
-2. O sistema deve manter um calendário de eventos no parque e permitir que os visitantes vejam e participem de eventos programados.
+2. O sistema deve manter um calendário de eventos no online e permitir que os visitantes vejam e participem de eventos programados.
 
 ## Gestão Financeira
 1. Deve ser possível rastrear a receita gerada a partir da venda de ingressos, reservas e eventos.
