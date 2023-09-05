@@ -46,10 +46,6 @@ Integrantes: Eduardo César Carvalho Mancessini
 1. A interface do usuário deve ser intuitiva e amigável, para que os visitantes e os administradores possam usar o sistema com facilidade.
 2. Deve ser responsivo e acessível em dispositivos móveis.
 
-## Escalabilidade
-1. O sistema deve ser projetado para escalar facilmente à medida que o parque cresce e adiciona mais recursos e atrações.
-2. Deve ser possível adicionar mais servidores e recursos conforme necessário.
-
 ## Manutenção
 1. O sistema deve ser de fácil manutenção, com atualizações e correções de bugs regulares.
 2. Deve incluir registros de atividades e logs para rastreamento de problemas.
