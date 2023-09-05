@@ -1,6 +1,6 @@
 # SUNPARK
 ## Integrantes: 
-             Eduardo César Carvalho Mancessini
+             Eduardo Mancessini
              Vitor Gabriel
              Luiz Henrique Lopes
              Wallace Alberto
