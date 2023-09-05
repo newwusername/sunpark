@@ -7,7 +7,7 @@
              Gabriel Haziel
              Frederick Willy
 ## Descrição do projeto: 
-Iremos criar um software para administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque.
+O sunpark é um software que irá administrar um parque, ele fornecerá funcionalidades abrangentes para gerenciar os visitantes, recursos e manutenção do parque através do aplicativo.
 
 # Requisitos Funcionais
 ## Registro de Visitantes
