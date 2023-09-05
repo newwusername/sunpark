@@ -50,10 +50,6 @@ Integrantes: Eduardo César Carvalho Mancessini
 1. O sistema deve ser projetado para escalar facilmente à medida que o parque cresce e adiciona mais recursos e atrações.
 2. Deve ser possível adicionar mais servidores e recursos conforme necessário.
 
-## Compatibilidade
-1. O sistema deve ser compatível com diferentes navegadores da web e sistemas operacionais.
-2. Deve ser capaz de se integrar com sistemas de pagamento online populares.
-
 ## Manutenção
 1. O sistema deve ser de fácil manutenção, com atualizações e correções de bugs regulares.
 2. Deve incluir registros de atividades e logs para rastreamento de problemas.
